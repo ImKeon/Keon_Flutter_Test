@@ -10,7 +10,9 @@ environment:
 dependencies:
   flutter_bloc: ^7.3.0
   equatable: ^2.0.3
+  json_annotation: ^4.0.1
   json_serializable: ^4.1.4
+  build_runner: ^2.1.2
   flutter:
     sdk: flutter
 
